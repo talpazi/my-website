@@ -20,8 +20,8 @@ Hi, I'm **Itamar Talpaz** (talpazi · he/him), a life sciences PhD student at Be
 # 🔗 My LinkedIn Posts
 
 ### 📌 Latest Post
-<iframe src="https://www.linkedin.com/posts/itamar-talpaz-923473273_awesome-first-day-here-at-university-of-liverpool-activity-7272298751241711616-VjSp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELPcGsBI9Za9TyRO_EHXmKVZKWK1MmU910" 
-width="600" height="400" frameborder="0" allowfullscreen="" title="Embedded LinkedIn Post"></iframe>
+👉 <a href="https://www.linkedin.com/posts/itamar-talpaz-923473273_today-at-the-israeli-climate-conference-activity-7295159133912141824-FSjE?utm_source=share&utm_medium=member_desktop" target="_blank">
+View My LinkedIn Post
 
 ---
 

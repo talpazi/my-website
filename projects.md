@@ -36,6 +36,7 @@ Here are some of my key research projects and academic work.
 ---
 
 ## 🌍 Navigation  
+- [Home](index.md)
 - [🏆 CV & Publications](cv.md)  
 - [🖼️ Gallery](gallery.md)  
 - [📂 Projects](projects.md)  

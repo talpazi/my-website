@@ -22,6 +22,7 @@ Hi, I'm **Itamar Talpaz** (talpazi · he/him), a life sciences PhD student at Be
 ### 📌 Latest Post
 👉 <a href="https://www.linkedin.com/posts/itamar-talpaz-923473273_today-at-the-israeli-climate-conference-activity-7295159133912141824-FSjE?utm_source=share&utm_medium=member_desktop" target="_blank">
 View My LinkedIn Post
+</a>
 
 ---
 

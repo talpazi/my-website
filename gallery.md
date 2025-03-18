@@ -15,11 +15,11 @@ Liverpool, UK, December 2024
 Liverpool, UK, December 2024
 [![Visit at University of Liverpool](assets/liverpool_presentation.jpg)](https://www.linkedin.com/posts/itamar-talpaz-923473273_awesome-first-day-here-at-university-of-liverpool-activity-7272298751241711616-VjSp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELPcGsBI9Za9TyRO_EHXmKVZKWK1MmU910)
 
-## Zoological Society Conferencel
+## Zoological Society Conference
 Hebrew University, Israel, December 2024
 [![Zoological Society Conference](assets/zoological_presentation.jpg)](https://www.linkedin.com/posts/itamar-talpaz-923473273_as-a-kid-when-people-asked-me-what-i-wanted-activity-7279571389487996928-Eneq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELPcGsBI9Za9TyRO_EHXmKVZKWK1MmU910)
 
-## Department Day Presentationl
+## Department Day Presentation
 Ben-Guriun University, Israel, July 2024
 [![Department Day Presentation](assets/department_day.jpg)](https://www.linkedin.com/posts/itamar-talpaz-923473273_research-lifesciences-naturalsciences-activity-7217592950606708737-irGt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELPcGsBI9Za9TyRO_EHXmKVZKWK1MmU910)
 

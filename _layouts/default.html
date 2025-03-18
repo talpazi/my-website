@@ -14,14 +14,17 @@
             display: inline-block;
             background-color: #0366d6;
             color: white;
-            padding: 10px 15px;
+            padding: 10px 20px;
             margin: 5px;
             border-radius: 6px;
             text-decoration: none;
             font-weight: bold;
+            border: 1px solid rgba(27,31,35,.15);
+            box-shadow: 0 1px 1px rgba(27,31,35,.1);
         }
         .nav-bar a:hover {
             background-color: #024ea1;
+            border-color: rgba(27,31,35,.15);
         }
     </style>
 </head>
@@ -36,10 +39,10 @@
 
     <nav class="nav-bar">
         <a href="{{ '/' | relative_url }}">🏠 Home</a>
-        <a href="{{ '/cv.md' | relative_url }}">📄 CV & Publications</a>
-        <a href="{{ '/gallery.md' | relative_url }}">🖼️ Gallery</a>
-        <a href="{{ '/projects.md' | relative_url }}">📂 Projects</a>
-        <a href="{{ '/contact.md' | relative_url }}">📬 Contact</a>
+        <a href="{{ '/cv.html' | relative_url }}">📄 CV & Publications</a>
+        <a href="{{ '/gallery.html' | relative_url }}">🖼️ Gallery</a>
+        <a href="{{ '/projects.html' | relative_url }}">📂 Projects</a>
+        <a href="{{ '/contact.html' | relative_url }}">📬 Contact</a>
     </nav>
 
     <main class="main-content">

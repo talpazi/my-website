@@ -16,6 +16,12 @@ Hi, I'm **Itamar Talpaz** (talpazi · he/him), a life sciences PhD student at Be
 - **LinkedIn:** [Itamar Talpaz](https://www.linkedin.com/in/itamar-talpaz-923473273)  
 
 
+# 🔗 My LinkedIn Posts
+
+### 📌 Latest Post
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7295159133912141824" 
+width="600" height="400" frameborder="0" allowfullscreen="" title="Embedded LinkedIn Post"></iframe>
+
 
 Feel free to explore my projects and connect with me!
 

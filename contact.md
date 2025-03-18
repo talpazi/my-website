@@ -15,7 +15,6 @@ You can reach me via email at **[talpazi@post.bgu.ac.il](mailto:talpazi@post.bgu
 ---
 
 ## 🌍 Navigation  
-- [🏆 CV & Publications](cv.md)  
-- [🖼️ Gallery](gallery.md)  
-- [📂 Projects](projects.md)  
-- [📬 Contact & Links](contact.md)  
+· [Home](index.md) · [CV & Publications](cv.md) · [Gallery](gallery.md) · [Projects](projects.md) · [Contact & Links](contact.md)  
+
+---

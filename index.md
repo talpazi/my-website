@@ -8,7 +8,7 @@ title: Itamar Talpaz's Personal Website
 Hi, I'm **Itamar Talpaz** (talpazi · he/him), a life sciences PhD student at Ben-Gurion University and a member of [Ecological Complexity Lab](https://ecomplab.com/). I'm passionate about nature and science.
 
 
-![passport](assets/passport.jpg)  
+![passport](assets/passport.png)  
 
 
 - **Location:** Be'er Sheva, Israel  

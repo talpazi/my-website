@@ -13,7 +13,11 @@
         <p>{{ site.description }}</p>
     </header>
 
-    <div class="container">
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
         <nav>
             <ul>
                 <li><a href="{{ '/' | relative_url }}">Home</a></li>
@@ -23,15 +27,37 @@
                 <li><a href="{{ '/contact.md' | relative_url }}">Contact & Links</a></li>
             </ul>
         </nav>
-
-        <main>
-            {{ content }}
-        </main>
-    </div>
-
-    <footer>
         <p>&copy; 2025 {{ site.title }}. All rights reserved.</p>
     </footer>
+
+    <style>
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #004085;
+            color: white;
+            margin-top: 40px;
+        }
+        footer nav ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        footer nav ul li {
+            display: inline;
+        }
+        footer nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        footer nav ul li a:hover {
+            color: #ffcc00;
+        }
+    </style>
 
 </body>
 </html>

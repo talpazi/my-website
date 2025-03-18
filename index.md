@@ -14,8 +14,4 @@ Hi, I'm **Itamar Talpaz** (talpazi · he/him), a life sciences PhD student at Be
 Feel free to explore my projects and connect with me!
 
 ## 🌍 Navigation  
-- [Home](index.md)
-- [🏆 CV & Publications](cv.md)  
-- [🖼️ Gallery](gallery.md)  
-- [📂 Projects](projects.md)  
-- [📬 Contact & Links](contact.md)  
+· [Home](index.md) · [CV & Publications](cv.md) · [Gallery](gallery.md) · [Projects](projects.md) · [Contact & Links](contact.md)  

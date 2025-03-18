@@ -12,9 +12,3 @@ Hi, I'm **Itamar Talpaz** (talpazi · he/him), a life sciences PhD student at Be
 - **LinkedIn:** [Itamar Talpaz](https://www.linkedin.com/in/itamar-talpaz-923473273)  
 
 Feel free to explore my projects and connect with me!
-
-## Navigation  
-- [CV & Publications](cv.md)  
-- [Gallery](gallery.md)  
-- [Projects](projects.md)  
-- [Contact & Links](contact.md)  

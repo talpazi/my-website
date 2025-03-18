@@ -17,8 +17,9 @@ title: CV & Publications
 ## Publications  
 - Frydman, N., Freilikhman, S., Talpaz, I., and Pilosof, S. (2023). Practical guidelines and the EMLN R package for handling ecological multilayer networks. **Methods Ecol. Evol.** 14, 2964–2973. [DOI: 10.1111/2041-210X.14225](https://doi.org/10.1111/2041-210X.14225)
 
-## Navigation  
-- [CV & Publications](cv.md)  
-- [Gallery](gallery.md)  
-- [Projects](projects.md)  
-- [Contact & Links](contact.md)  
+---
+
+## 🌍 Navigation  
+· [Home](index.md) · [CV & Publications](cv.md) · [Gallery](gallery.md) · [Projects](projects.md) · [Contact & Links](contact.md)  
+
+---

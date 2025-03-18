@@ -6,6 +6,7 @@ title: Gallery
 # 🖼️ Event Gallery
 
 Here are some of my selected event photos. Click on an image to view the LinkedIn post describing the event.
+Check out my [profile](https://www.linkedin.com/in/itamar-talpaz-923473273/) to see more of my life!
 
 ## British Ecological Society (BES)
 Liverpool, UK, December 2024

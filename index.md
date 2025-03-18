@@ -3,6 +3,8 @@ layout: default
 title: Itamar Talpaz's Personal Website
 ---
 
+🚧 **This website is still under construction.** 🚧  
+
 # Hi there 👋
 
 Hi, I'm **Itamar Talpaz** (talpazi · he/him), a life sciences PhD student at Ben-Gurion University and a member of [Ecological Complexity Lab](https://ecomplab.com/). I'm passionate about nature and science.

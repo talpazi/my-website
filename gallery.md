@@ -26,8 +26,6 @@ Ben-Guriun University, Israel, July 2024
 
 ---
 
----
-
 ## 🌍 Navigation  
 · [Home](index.md) · [CV & Publications](cv.md) · [Gallery](gallery.md) · [Projects](projects.md) · [Contact & Links](contact.md)  
 

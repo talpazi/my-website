@@ -5,6 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <style>
+        .nav-bar {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .nav-bar a {
+            display: inline-block;
+            background-color: #0366d6;
+            color: white;
+            padding: 10px 15px;
+            margin: 5px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .nav-bar a:hover {
+            background-color: #024ea1;
+        }
+    </style>
 </head>
 <body>
 
@@ -15,16 +34,12 @@
         </div>
     </header>
 
-    <nav class="site-nav">
-        <div class="wrapper">
-            <ul>
-                <li><a href="{{ '/' | relative_url }}">🏠 Home</a></li>
-                <li><a href="{{ '/cv.md' | relative_url }}">📄 CV & Publications</a></li>
-                <li><a href="{{ '/gallery.md' | relative_url }}">🖼️ Gallery</a></li>
-                <li><a href="{{ '/projects.md' | relative_url }}">📂 Projects</a></li>
-                <li><a href="{{ '/contact.md' | relative_url }}">📬 Contact</a></li>
-            </ul>
-        </div>
+    <nav class="nav-bar">
+        <a href="{{ '/' | relative_url }}">🏠 Home</a>
+        <a href="{{ '/cv.md' | relative_url }}">📄 CV & Publications</a>
+        <a href="{{ '/gallery.md' | relative_url }}">🖼️ Gallery</a>
+        <a href="{{ '/projects.md' | relative_url }}">📂 Projects</a>
+        <a href="{{ '/contact.md' | relative_url }}">📬 Contact</a>
     </nav>
 
     <main class="main-content">

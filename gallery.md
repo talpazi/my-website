@@ -19,7 +19,6 @@ Here are some of my selected event photos. Click to view in full size.
 ---
 
 ## 🌍 Navigation  
-- [🏆 CV & Publications](cv.md)  
-- [🖼️ Gallery](gallery.md)  
-- [📂 Projects](projects.md)  
-- [📬 Contact & Links](contact.md)  
+· [Home](index.md) · [CV & Publications](cv.md) · [Gallery](gallery.md) · [Projects](projects.md) · [Contact & Links](contact.md)  
+
+---

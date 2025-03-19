@@ -30,7 +30,7 @@ Hebrew University, Israel, December 2024
 </a>
 
 ## Department Day Presentation
-Ben-Guriun University, Israel, July 2024
+Ben-Gurion University, Israel, July 2024
 
 <a href="https://www.linkedin.com/posts/itamar-talpaz-923473273_research-lifesciences-naturalsciences-activity-7217592950606708737-irGt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELPcGsBI9Za9TyRO_EHXmKVZKWK1MmU910" target="_blank">
     <img src="assets/department_day.jpg" alt="Department Day Presentation" style="width: 200px; height: auto;">
